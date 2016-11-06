@@ -1,10 +1,3 @@
-//
-//  UIImageExtensions.swift
-//  swift-multithreading-lab
-//
-//  Created by Ian Rahman on 11/2/16.
-//  Copyright © 2016 Flatiron School. All rights reserved.
-//
 
 import Foundation
 import UIKit

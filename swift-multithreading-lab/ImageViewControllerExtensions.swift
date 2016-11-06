@@ -1,10 +1,3 @@
-//
-//  ImageViewControllerExtensions.swift
-//  swift-multithreading-lab
-//
-//  Created by Ian Rahman on 10/31/16.
-//  Copyright © 2016 Flatiron School. All rights reserved.
-//
 
 import Foundation
 import UIKit
@@ -119,4 +112,7 @@ extension ImageViewController: UIImagePickerControllerDelegate, UINavigationCont
         present(picker, animated: true, completion: nil)
     }
     
+   
+    
 }
+
